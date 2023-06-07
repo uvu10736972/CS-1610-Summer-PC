@@ -5,7 +5,7 @@ Lab 1b (DGM 1610)
 All code is original and typed by me
 */
 
-//Objective 1: Create a program that asks the user to enter the current temperature in Celsius. Use an "if" statement to check if the temperature exceeds 30 degrees Celsius. If it is, display a message suggesting the user stay hydrated and avoid staying in the sun for too long. If the temperature is below 30 degrees Celsius, display a message suggesting the user enjoys the pleasant weather.
+//Enhance the "Temperature Adviser" program from the lab assignment. Modify the existing code to check for different temperature ranges and provide more specific advice based on the conditions. Customize the messages based on the temperature conditions to provide detailed weather advice. For example, if the temperature is below 10 degrees Celsius, suggest wearing warm clothing. I recommend carrying a light jacket if the temperature is between 10 and 20 degrees Celsius.
 
 //Objective 2: Extend your program to prompt users to enter their exam scores as percentages. Use an "if-else" statement to check the score and provide a corresponding grade. For example, if the score is between 90 and 100, display an "A" grade message. If the score is between 80 and 89, display a "B" grade message, and so on. Provide appropriate feedback for various score ranges.
 using System;
